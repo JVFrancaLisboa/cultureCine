@@ -365,6 +365,7 @@ function setTheme(theme) {
         success: function() {
             console.log("Tema definido como: " + theme);
             $('#temaI').text(theme)
+            console.log(theme);
             applyTheme(theme);
         }
     });
