@@ -1,0 +1,25 @@
+.bg-dark {
+    background-color: #2E2E2E; /* Cinza-escuro suave */
+    color: #E0E0E0; /* Cinza claro para contraste */
+}
+
+.bg-light {
+    background-color: #F5F5F5; /* Cinza muito claro para reduzir o brilho */
+    color: #333333; /* Cinza escuro para o texto, reduzindo contraste intenso */
+}
+
+.label-light {
+    color: #000;
+}
+
+.label-dark {
+    color: #fff;
+}
+
+.p-light {
+    color: #000;
+}
+
+.p-dark {
+    color: #fff;
+}
